@@ -77,3 +77,4 @@ DerivedDataCache/*
 # End of https://www.gitignore.io/api/unrealengine
 /Videa/8. 11. 2018
 /Builds
+*.db
